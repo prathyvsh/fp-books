@@ -6,7 +6,8 @@ This is a list of computer science books that [[https://twitter.com/][we]] have 
 
 ** Notes
 
-Most sites on the internet suggest to get going with SICP. But for a newcomer, that book is hard. We have personally tried to get going through the book, but we had to put it down twice, finish a few other primers first before tackling it again. So, we wouldn't really recommend it as the first one to tackle.
+Most sites on the internet suggest to get started with SICP. But for a newcomer, that book is hard. We have personally tried to work through the book, but we had to put it down twice and finish a few other introductions first before getting familiar with it again. So, we wouldn't really recommend it as the first book to tackle from our experience. The book is considered to be introductory because historically, it was an introductory material, but for engineers in IBM.
+[Include report by HTDP authors]
 
 Also, an inclination of students who come to the field newly is to reject books saying that they are old. But this is a misstep. In Computer Science as well as in science counter to this perception, old books come out to be of much value. They have much more to teach us in the present. This is because the fundamentals of the field rarely change and these old books are close to the source in that they are reflections of people who have contributed to those foundations themselves or have been around in a part of history when this knowledge was not diluted. So whenever you hear about an olden book being mentioned by your colleague or friend, give it some due consideration before rejecting it as outdated. It might be one of those exhibiting this timeless quality whereby they act as replenished reservoir of foundational lessons to teach us.
 
