@@ -5,6 +5,10 @@ This is a list of computer science books that [[https://twitter.com/][we]] have 
 
 ** Selection Criteria
 
+** Notes
+
+Most sites on the internet suggest to get going with SICP. But for a newcomer, that book is hard. We have personally tried to get going through the book, but we had to put it down twice, finish a few other primers first before tackling it again. So, we wouldn't really recommend it as the first one to tackle.
+
 * Functional Programming
 
 ** [[https://htdp.org/][How to Design Programs]]
