@@ -9,6 +9,8 @@ This is a list of computer science books that [[https://twitter.com/][we]] have 
 
 Most sites on the internet suggest to get going with SICP. But for a newcomer, that book is hard. We have personally tried to get going through the book, but we had to put it down twice, finish a few other primers first before tackling it again. So, we wouldn't really recommend it as the first one to tackle.
 
+Language specific books are listed towards the bottom.
+
 * Functional Programming
 
 ** [[https://htdp.org/][How to Design Programs]]
@@ -41,3 +43,15 @@ Authors: Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishn
 HtDP is a beginner level introduction to the world of functional programming. Fairly easy book to go through (apart from that tough nut 12.4.1 exercise in the first edition) and rewarding of the effort you put into it.
 
 [[https://github.com/prathyvsh/htdp][Book Review and Workout]]
+
+* Language specific
+
+** ML
+
+** LISP
+
+** Scheme
+
+** Haskell
+
+** Clojure
