@@ -1,5 +1,4 @@
 * Understanding Functional Programming
-Books to learn functional programming thoroughly
 
 This is a list of computer science books that [[https://twitter.com/][we]] have compiled after searching in this field for around 8 years now. We have featured the books by gathering opinions from different sources on the Internet, then researching the authors, going through the index and skimming through the books ourselves. Even after being in the field for close to a decade, we have barely read any of these books. We wanted to change that situation and to learn this, we choose to learn these topics from the best books in the field, so we have try to put some effort into the research since we felt it should be useful first for ourselves, then for posterity. We would love to hear from you if we have missed any must reads or hidden gems that would aid us in our journey! [[https://twitter.com/prathyvsh][Tweet to us]] if you know about one.
 
